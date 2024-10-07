@@ -18,8 +18,9 @@ A simple React-based robot simulator that allows you to control a robot on a 5x5
    git clone https://github.com/Khurrum-Ali/robot-simulator.git
 
 2. Install Dependencies:
-   ```npm install
+   ```bash
+   npm install
    
 3. Run:
-  ```npm run dev
-  http://localhost:5173/
+  ```bash
+  npm run dev
