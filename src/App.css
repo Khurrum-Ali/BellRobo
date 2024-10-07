@@ -1,0 +1,42 @@
+.robot-simulator {
+  text-align: center;
+}
+
+.grid {
+  display: inline-block;
+  margin: 20px 0;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 70px;
+  height: 70px;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.robot {
+  background-color: #f7f7f7;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #e15a1d;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
